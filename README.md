@@ -1,6 +1,6 @@
 # Metrify
 
-![alt text](https://github.com/MrKai77/Metrify/blob/main/Metrify-Screenshot.png)
+![alt text](https://github.com/MrKai77/Metrify/blob/main/Screenshots/Metrify-Screenshot.png)
 
 A iOS metronome app aiming for simplicity made in SwiftUI.
 
